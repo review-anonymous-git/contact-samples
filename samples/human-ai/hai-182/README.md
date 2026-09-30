@@ -1,0 +1,23 @@
+# hai-182: Cascade V1
+
+Think about a technology you believe will significantly change everyday life in the future. What excites you about it, what worries you, and how confident you feel about those expectations.
+
+## Ratings
+
+| Dimension | Participant | Supervisor | Combined |
+|---|---:|---:|---:|
+| Turn Taking | 2.0 | 1.0 | 1.5 |
+| Affective Response | 3.0 | 1.0 | 2.0 |
+| Overall | 5.0 | 1.0 | 3.0 |
+
+Participating human's rating. Scores refer to the full recording.
+
+[Play video](https://review-anonymous-git.github.io/contact-samples/#hai-182) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-182.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-182.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-182.mov)
+
+Channel roles, speaker IDs and padding are recorded in [metadata.json](metadata.json).
+
+## Privacy
+
+Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.
+
+Age ranges: 58+. Human participant; AI has no demographic attributes.

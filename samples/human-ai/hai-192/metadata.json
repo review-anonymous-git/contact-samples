@@ -1,0 +1,65 @@
+{
+  "sample_id": "hai-192",
+  "subset": "Open-Ended Human-AI Conversations",
+  "subset_slug": "human-ai",
+  "recording_id": 192,
+  "session_id": "session_026",
+  "conversation": 5,
+  "event_or_model": "Gemini 3.1 Flash Live Preview",
+  "duration_seconds": 313.56,
+  "prompt": "Share an awkward or embarrassing moment. What happened, and how you look back on it now. Do you regret it?",
+  "target_behavior": null,
+  "ratings_scale": [
+    1,
+    5
+  ],
+  "ratings_scope": "Full recording, not an isolated event or clip",
+  "ratings": {
+    "turn_taking": {
+      "participant": 4.0,
+      "supervisor": 4.0,
+      "combined": 4.0
+    },
+    "affective_response": {
+      "participant": 3.0,
+      "supervisor": 3.0,
+      "combined": 3.0
+    },
+    "overall": {
+      "participant": 4.0,
+      "supervisor": 2.0,
+      "combined": 3.0
+    }
+  },
+  "participant_policy": "Participating human's rating",
+  "demographics": {
+    "age_ranges": [
+      "58+"
+    ],
+    "age_range_mapping": "Human participant; AI has no demographic attributes"
+  },
+  "privacy_note": "Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.",
+  "channels": [
+    {
+      "channel": 1,
+      "position": "left",
+      "speaker_id": "064",
+      "role": "human",
+      "tail_padding_seconds": 0.0
+    },
+    {
+      "channel": 2,
+      "position": "right",
+      "speaker_id": "AI_001",
+      "role": "ai",
+      "tail_padding_seconds": 0.0
+    }
+  ],
+  "video_layout": "Human participant only",
+  "transcript": null,
+  "downloads": {
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-192.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-192.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-192.mov"
+  }
+}

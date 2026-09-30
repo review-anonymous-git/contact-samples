@@ -1,0 +1,56 @@
+{
+  "sample_id": "emo-360",
+  "subset": "Affective Mismatch",
+  "subset_slug": "affective-mismatch",
+  "recording_id": 360,
+  "session_id": "session_023",
+  "conversation": 2,
+  "event_or_model": "Valence Mismatch",
+  "duration_seconds": 254.544,
+  "prompt": "Talk about a hygiene or cleanliness situation that you would find particularly unpleasant or disgusting. For example, discovering bugs in a kitchen or bedroom, seeing residue on supposedly clean dishes, finding a shared kitchen covered in old food or oil, entering a very dirty bathroom, finding overflowing garbage, noticing spoiled food smell, or discovering that a place that should be clean has not been cleaned for a long time. Discuss what would bother you most and how you would react.",
+  "target_behavior": "The topic speaker should discuss the assigned topic naturally. The manipulated responder should say things that are broadly appropriate, but with an emotional tone that clashes with the situation, such as cheerful toward something unpleasant or irritated toward something positive.",
+  "ratings_scale": [
+    1,
+    5
+  ],
+  "ratings_scope": "Full recording, not an isolated event or clip",
+  "ratings": {
+    "affective_response": {
+      "participant": 4.0,
+      "supervisor": 3.0,
+      "combined": 3.5
+    }
+  },
+  "participant_policy": "Non-manipulated participant's rating",
+  "demographics": {
+    "age_ranges": [
+      "28-37",
+      "28-37"
+    ],
+    "age_range_mapping": "Unordered participant pair; not linked to speaker IDs or left/right channels"
+  },
+  "privacy_note": "Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.",
+  "channels": [
+    {
+      "channel": 1,
+      "position": "left",
+      "speaker_id": "107",
+      "role": "human",
+      "tail_padding_seconds": 0.048
+    },
+    {
+      "channel": 2,
+      "position": "right",
+      "speaker_id": "108",
+      "role": "human",
+      "tail_padding_seconds": 0.0
+    }
+  ],
+  "video_layout": "Left and right follow the audio channels",
+  "transcript": null,
+  "downloads": {
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.mov"
+  }
+}

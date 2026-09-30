@@ -1,0 +1,56 @@
+{
+  "sample_id": "tt-062",
+  "subset": "Awkward Turn-Taking",
+  "subset_slug": "awkward-turn-taking",
+  "recording_id": 62,
+  "session_id": "session_007",
+  "conversation": 5,
+  "event_or_model": "Unmarked Turn Abandonment",
+  "duration_seconds": 244.944,
+  "prompt": "Plan a weekend trip together. Decide where you would go, how long you would stay, what you would do, how much planning is needed, and what tradeoffs you would make if time or money were limited.",
+  "target_behavior": "The manipulated speaker should stop during a proposal or decision point without finishing the idea and without clearly giving the floor to the partner. The partner should respond naturally to the unclear turn release.",
+  "ratings_scale": [
+    1,
+    5
+  ],
+  "ratings_scope": "Full recording, not an isolated event or clip",
+  "ratings": {
+    "turn_taking": {
+      "participant": 4.0,
+      "supervisor": 2.0,
+      "combined": 3.0
+    }
+  },
+  "participant_policy": "Non-manipulated participant's rating",
+  "demographics": {
+    "age_ranges": [
+      "38-47",
+      "48-57"
+    ],
+    "age_range_mapping": "Unordered participant pair; not linked to speaker IDs or left/right channels"
+  },
+  "privacy_note": "Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.",
+  "channels": [
+    {
+      "channel": 1,
+      "position": "left",
+      "speaker_id": "015",
+      "role": "human",
+      "tail_padding_seconds": 0.0
+    },
+    {
+      "channel": 2,
+      "position": "right",
+      "speaker_id": "016",
+      "role": "human",
+      "tail_padding_seconds": 0.024
+    }
+  ],
+  "video_layout": "Left and right follow the audio channels",
+  "transcript": null,
+  "downloads": {
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mov"
+  }
+}

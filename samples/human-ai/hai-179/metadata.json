@@ -1,0 +1,65 @@
+{
+  "sample_id": "hai-179",
+  "subset": "Open-Ended Human-AI Conversations",
+  "subset_slug": "human-ai",
+  "recording_id": 179,
+  "session_id": "session_025",
+  "conversation": 1,
+  "event_or_model": "Gemini 3.1 Flash Live Preview",
+  "duration_seconds": 401.424,
+  "prompt": "Share your experience being a fan of a sports team. What first drew you to them, what keeps you supporting them, and how you feel about them these days.",
+  "target_behavior": null,
+  "ratings_scale": [
+    1,
+    5
+  ],
+  "ratings_scope": "Full recording, not an isolated event or clip",
+  "ratings": {
+    "turn_taking": {
+      "participant": 5.0,
+      "supervisor": 3.0,
+      "combined": 4.0
+    },
+    "affective_response": {
+      "participant": 5.0,
+      "supervisor": 1.0,
+      "combined": 3.0
+    },
+    "overall": {
+      "participant": 5.0,
+      "supervisor": 3.0,
+      "combined": 4.0
+    }
+  },
+  "participant_policy": "Participating human's rating",
+  "demographics": {
+    "age_ranges": [
+      "58+"
+    ],
+    "age_range_mapping": "Human participant; AI has no demographic attributes"
+  },
+  "privacy_note": "Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.",
+  "channels": [
+    {
+      "channel": 1,
+      "position": "left",
+      "speaker_id": "063",
+      "role": "human",
+      "tail_padding_seconds": 0.0
+    },
+    {
+      "channel": 2,
+      "position": "right",
+      "speaker_id": "AI_001",
+      "role": "ai",
+      "tail_padding_seconds": 0.024
+    }
+  ],
+  "video_layout": "Human participant only",
+  "transcript": null,
+  "downloads": {
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-179.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-179.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-179.mov"
+  }
+}

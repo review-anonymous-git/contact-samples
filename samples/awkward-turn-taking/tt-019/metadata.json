@@ -1,0 +1,56 @@
+{
+  "sample_id": "tt-019",
+  "subset": "Awkward Turn-Taking",
+  "subset_slug": "awkward-turn-taking",
+  "recording_id": 19,
+  "session_id": "session_002",
+  "conversation": 1,
+  "event_or_model": "Natural Baseline",
+  "duration_seconds": 251.112,
+  "prompt": "One speaker asks for advice about a small everyday decision, such as whether to change a routine, accept an invitation, buy something, or bring up a minor issue. The partner should give advice naturally.",
+  "target_behavior": "Both speakers should discuss the problem naturally. The advice seeker can add context and the partner can respond, but there should be no intentional blocking or interruption.",
+  "ratings_scale": [
+    1,
+    5
+  ],
+  "ratings_scope": "Full recording, not an isolated event or clip",
+  "ratings": {
+    "turn_taking": {
+      "participant": 5.0,
+      "supervisor": 5.0,
+      "combined": 5.0
+    }
+  },
+  "participant_policy": "Mean of both participants",
+  "demographics": {
+    "age_ranges": [
+      "38-47",
+      "38-47"
+    ],
+    "age_range_mapping": "Unordered participant pair; not linked to speaker IDs or left/right channels"
+  },
+  "privacy_note": "Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.",
+  "channels": [
+    {
+      "channel": 1,
+      "position": "left",
+      "speaker_id": "005",
+      "role": "human",
+      "tail_padding_seconds": 0.0
+    },
+    {
+      "channel": 2,
+      "position": "right",
+      "speaker_id": "006",
+      "role": "human",
+      "tail_padding_seconds": 0.048
+    }
+  ],
+  "video_layout": "Left and right follow the audio channels",
+  "transcript": null,
+  "downloads": {
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mov"
+  }
+}

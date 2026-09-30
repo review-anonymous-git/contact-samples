@@ -1,0 +1,56 @@
+{
+  "sample_id": "emo-362",
+  "subset": "Affective Mismatch",
+  "subset_slug": "affective-mismatch",
+  "recording_id": 362,
+  "session_id": "session_023",
+  "conversation": 4,
+  "event_or_model": "Disproportionate Emotional Overreaction",
+  "duration_seconds": 243.456,
+  "prompt": "Talk about an ordinary experience that unexpectedly turned out much better than you expected. For example, you might discuss trying a restaurant or food that was surprisingly good, visiting a place that was more enjoyable than expected, joining an activity you did not expect to like, attending an event that turned out to be fun, or receiving a small unexpected benefit or piece of good news. Discuss what happened, what surprised you, and why it made you feel happy.",
+  "target_behavior": "The topic speaker should keep the situation ordinary and low-stakes. The manipulated responder should make reasonable conversational points, but react with noticeably excessive intensity for the situation.",
+  "ratings_scale": [
+    1,
+    5
+  ],
+  "ratings_scope": "Full recording, not an isolated event or clip",
+  "ratings": {
+    "affective_response": {
+      "participant": 2.0,
+      "supervisor": 4.0,
+      "combined": 3.0
+    }
+  },
+  "participant_policy": "Non-manipulated participant's rating",
+  "demographics": {
+    "age_ranges": [
+      "28-37",
+      "28-37"
+    ],
+    "age_range_mapping": "Unordered participant pair; not linked to speaker IDs or left/right channels"
+  },
+  "privacy_note": "Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.",
+  "channels": [
+    {
+      "channel": 1,
+      "position": "left",
+      "speaker_id": "107",
+      "role": "human",
+      "tail_padding_seconds": 0.048
+    },
+    {
+      "channel": 2,
+      "position": "right",
+      "speaker_id": "108",
+      "role": "human",
+      "tail_padding_seconds": 0.0
+    }
+  ],
+  "video_layout": "Left and right follow the audio channels",
+  "transcript": null,
+  "downloads": {
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mov"
+  }
+}
