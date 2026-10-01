@@ -17,11 +17,13 @@
   "ratings": {
     "affective_response": {
       "participant": 4.5,
+      "participant_instructed": null,
+      "participant_uninstructed": 4.5,
       "supervisor": 5.0,
       "combined": 4.75
     }
   },
-  "participant_policy": "Mean of both participants",
+  "participant_policy": "Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating",
   "demographics": {
     "age_ranges": [
       "28-37",

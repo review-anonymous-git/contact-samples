@@ -17,11 +17,13 @@
   "ratings": {
     "turn_taking": {
       "participant": 2.0,
+      "participant_instructed": 2.0,
+      "participant_uninstructed": null,
       "supervisor": 2.0,
       "combined": 2.0
     }
   },
-  "participant_policy": "Mean of both participants",
+  "participant_policy": "Both participants received disruption instructions; P (instructed) is their mean. Combined uses that mean and the supervisor rating",
   "demographics": {
     "age_ranges": [
       "28-37",

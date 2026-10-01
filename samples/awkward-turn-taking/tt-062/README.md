@@ -8,11 +8,14 @@ The manipulated speaker should stop during a proposal or decision point without 
 
 ## Ratings
 
-| Dimension | Participant | Supervisor | Combined |
-|---|---:|---:|---:|
-| Turn Taking | 4.0 | 2.0 | 3.0 |
+| Rater | Turn Taking MOS |
+|---|---:|
+| P (instructed) | 2.00 |
+| P (uninstructed) | 4.00 |
+| Supervisor | 2.00 |
+| Combined | 3.00 |
 
-Non-manipulated participant's rating. Scores refer to the full recording.
+Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#tt-062) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mov)
 

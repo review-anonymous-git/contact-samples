@@ -17,11 +17,13 @@
   "ratings": {
     "turn_taking": {
       "participant": 2.0,
+      "participant_instructed": 1.0,
+      "participant_uninstructed": 2.0,
       "supervisor": 2.0,
       "combined": 2.0
     }
   },
-  "participant_policy": "Non-manipulated participant's rating",
+  "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
   "demographics": {
     "age_ranges": [
       "48-57",

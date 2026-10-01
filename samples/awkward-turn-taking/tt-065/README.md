@@ -8,11 +8,14 @@ The manipulated speaker should defend their view using repeated fragmented pause
 
 ## Ratings
 
-| Dimension | Participant | Supervisor | Combined |
-|---|---:|---:|---:|
-| Turn Taking | 2.0 | 2.0 | 2.0 |
+| Rater | Turn Taking MOS |
+|---|---:|
+| P (instructed) | 2.00 |
+| P (uninstructed) | 2.00 |
+| Supervisor | 2.00 |
+| Combined | 2.00 |
 
-Non-manipulated participant's rating. Scores refer to the full recording.
+Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#tt-065) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.mov)
 

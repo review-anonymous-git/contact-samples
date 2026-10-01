@@ -8,11 +8,14 @@ The topic speaker should keep the situation ordinary and low-stakes. The manipul
 
 ## Ratings
 
-| Dimension | Participant | Supervisor | Combined |
-|---|---:|---:|---:|
-| Affective Response | 2.0 | 4.0 | 3.0 |
+| Rater | Affective Response MOS |
+|---|---:|
+| P (instructed) | 2.00 |
+| P (uninstructed) | 2.00 |
+| Supervisor | 4.00 |
+| Combined | 3.00 |
 
-Non-manipulated participant's rating. Scores refer to the full recording.
+Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#emo-362) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mov)
 

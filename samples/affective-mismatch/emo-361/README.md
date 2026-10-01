@@ -8,11 +8,14 @@ The topic speaker should discuss the assigned topic naturally. The manipulated r
 
 ## Ratings
 
-| Dimension | Participant | Supervisor | Combined |
-|---|---:|---:|---:|
-| Affective Response | 2.0 | 3.0 | 2.5 |
+| Rater | Affective Response MOS |
+|---|---:|
+| P (instructed) | 4.00 |
+| P (uninstructed) | 2.00 |
+| Supervisor | 3.00 |
+| Combined | 2.50 |
 
-Non-manipulated participant's rating. Scores refer to the full recording.
+Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#emo-361) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.mov)
 

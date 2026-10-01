@@ -8,11 +8,14 @@ Both speakers should respond naturally. They do not need to exaggerate emotion; 
 
 ## Ratings
 
-| Dimension | Participant | Supervisor | Combined |
-|---|---:|---:|---:|
-| Affective Response | 4.5 | 5.0 | 4.75 |
+| Rater | Affective Response MOS |
+|---|---:|
+| P (instructed) | N/A |
+| P (uninstructed) | 4.50 |
+| Supervisor | 5.00 |
+| Combined | 4.75 |
 
-Mean of both participants. Scores refer to the full recording.
+Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#emo-359) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.mov)
 

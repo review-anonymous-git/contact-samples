@@ -8,11 +8,14 @@ The manipulated speaker should begin responding slightly before the partner has 
 
 ## Ratings
 
-| Dimension | Participant | Supervisor | Combined |
-|---|---:|---:|---:|
-| Turn Taking | 1.0 | 3.0 | 2.0 |
+| Rater | Turn Taking MOS |
+|---|---:|
+| P (instructed) | 4.00 |
+| P (uninstructed) | 1.00 |
+| Supervisor | 3.00 |
+| Combined | 2.00 |
 
-Non-manipulated participant's rating. Scores refer to the full recording.
+Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#tt-031) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.mov)
 

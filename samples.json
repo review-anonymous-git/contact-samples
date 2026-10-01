@@ -21,11 +21,13 @@
       "ratings": {
         "turn_taking": {
           "participant": 5.0,
+          "participant_instructed": null,
+          "participant_uninstructed": 5.0,
           "supervisor": 5.0,
           "combined": 5.0
         }
       },
-      "participant_policy": "Mean of both participants",
+      "participant_policy": "Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating",
       "demographics": {
         "age_ranges": [
           "38-47",
@@ -77,11 +79,13 @@
       "ratings": {
         "turn_taking": {
           "participant": 2.0,
+          "participant_instructed": 1.0,
+          "participant_uninstructed": 2.0,
           "supervisor": 2.0,
           "combined": 2.0
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "48-57",
@@ -133,11 +137,13 @@
       "ratings": {
         "turn_taking": {
           "participant": 2.0,
+          "participant_instructed": 2.0,
+          "participant_uninstructed": null,
           "supervisor": 2.0,
           "combined": 2.0
         }
       },
-      "participant_policy": "Mean of both participants",
+      "participant_policy": "Both participants received disruption instructions; P (instructed) is their mean. Combined uses that mean and the supervisor rating",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -189,11 +195,13 @@
       "ratings": {
         "turn_taking": {
           "participant": 2.0,
+          "participant_instructed": 2.0,
+          "participant_uninstructed": 2.0,
           "supervisor": 2.0,
           "combined": 2.0
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "38-47",
@@ -245,11 +253,13 @@
       "ratings": {
         "turn_taking": {
           "participant": 1.0,
+          "participant_instructed": 4.0,
+          "participant_uninstructed": 1.0,
           "supervisor": 3.0,
           "combined": 2.0
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -301,11 +311,13 @@
       "ratings": {
         "turn_taking": {
           "participant": 4.0,
+          "participant_instructed": 2.0,
+          "participant_uninstructed": 4.0,
           "supervisor": 2.0,
           "combined": 3.0
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "38-47",
@@ -357,11 +369,13 @@
       "ratings": {
         "affective_response": {
           "participant": 4.5,
+          "participant_instructed": null,
+          "participant_uninstructed": 4.5,
           "supervisor": 5.0,
           "combined": 4.75
         }
       },
-      "participant_policy": "Mean of both participants",
+      "participant_policy": "Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -413,11 +427,13 @@
       "ratings": {
         "affective_response": {
           "participant": 4.0,
+          "participant_instructed": 1.0,
+          "participant_uninstructed": 4.0,
           "supervisor": 3.0,
           "combined": 3.5
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -469,11 +485,13 @@
       "ratings": {
         "affective_response": {
           "participant": 2.0,
+          "participant_instructed": 4.0,
+          "participant_uninstructed": 2.0,
           "supervisor": 3.0,
           "combined": 2.5
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -525,11 +543,13 @@
       "ratings": {
         "affective_response": {
           "participant": 2.0,
+          "participant_instructed": 2.0,
+          "participant_uninstructed": 2.0,
           "supervisor": 4.0,
           "combined": 3.0
         }
       },
-      "participant_policy": "Non-manipulated participant's rating",
+      "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "28-37",
