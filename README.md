@@ -1,5 +1,8 @@
 # CONTACT: A Human-Grounded Benchmark and Surprisal-Based Predictive Scorer for Conversational Naturalness
 
+> [!IMPORTANT]
+> **ALL samples will be released after paper publication.**
+
 ## [Open the audio/video sample gallery](https://review-anonymous-git.github.io/contact-samples/)
 
 [Awkward Turn-Taking](https://review-anonymous-git.github.io/contact-samples/#awkward-turn-taking) | [Affective Mismatch](https://review-anonymous-git.github.io/contact-samples/#affective-mismatch) | [Human-AI Conversations](https://review-anonymous-git.github.io/contact-samples/#human-ai)
