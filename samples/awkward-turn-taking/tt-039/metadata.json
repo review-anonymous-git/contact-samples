@@ -57,17 +57,17 @@
   },
   "participant_details": [
     {
-      "position": null,
-      "speaker_id": null,
+      "position": "left",
+      "speaker_id": "009",
       "instruction_role": "instructed",
       "score": 1.0
     },
     {
-      "position": null,
-      "speaker_id": null,
+      "position": "right",
+      "speaker_id": "010",
       "instruction_role": "uninstructed",
       "score": 2.0
     }
   ],
-  "participant_position_mapping": "unresolved"
+  "participant_position_mapping": "transcript_self_report"
 }
