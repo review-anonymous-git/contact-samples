@@ -58,8 +58,8 @@
   "video_layout": "Human participant only",
   "transcript": null,
   "downloads": {
-    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-179.mp4",
-    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-179.wav",
-    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-179.mov"
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/hai-179.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/hai-179.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/hai-179.mov"
   }
 }
