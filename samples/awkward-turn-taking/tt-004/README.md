@@ -10,12 +10,12 @@ The non-storytelling speaker should at some point begin speaking and continue wi
 
 | Rater | Turn Taking MOS |
 |---|---:|
-| P (instructed) | 2.00 |
-| P (uninstructed) | N/A |
+| P - Left (instructed) | 2.00 |
+| P - Right (instructed) | 2.00 |
 | Supervisor | 2.00 |
 | Combined | 2.00 |
 
-Both participants received disruption instructions; P (instructed) is their mean. Combined uses that mean and the supervisor rating. Scores refer to the full recording.
+Both participants are instructed; individual scores are shown separately. Combined uses their mean and the supervisor rating. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#tt-004) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mov)
 

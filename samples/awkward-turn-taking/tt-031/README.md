@@ -10,8 +10,8 @@ The manipulated speaker should begin responding slightly before the partner has 
 
 | Rater | Turn Taking MOS |
 |---|---:|
-| P (instructed) | 4.00 |
-| P (uninstructed) | 1.00 |
+| P (instructed; side unconfirmed) | 4.00 |
+| P (uninstructed; side unconfirmed) | 1.00 |
 | Supervisor | 3.00 |
 | Combined | 2.00 |
 

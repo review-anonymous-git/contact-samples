@@ -23,7 +23,7 @@
       "combined": 5.0
     }
   },
-  "participant_policy": "Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating",
+  "participant_policy": "Both participants are uninstructed; individual scores are shown separately. Combined uses their mean and the supervisor rating",
   "demographics": {
     "age_ranges": [
       "38-47",
@@ -54,5 +54,20 @@
     "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mp4",
     "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.wav",
     "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mov"
-  }
+  },
+  "participant_details": [
+    {
+      "position": "left",
+      "speaker_id": "005",
+      "instruction_role": "uninstructed",
+      "score": 5.0
+    },
+    {
+      "position": "right",
+      "speaker_id": "006",
+      "instruction_role": "uninstructed",
+      "score": 5.0
+    }
+  ],
+  "participant_position_mapping": "same_role_and_score"
 }

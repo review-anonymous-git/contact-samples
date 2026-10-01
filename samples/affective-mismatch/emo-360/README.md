@@ -10,8 +10,8 @@ The topic speaker should discuss the assigned topic naturally. The manipulated r
 
 | Rater | Affective Response MOS |
 |---|---:|
-| P (instructed) | 1.00 |
-| P (uninstructed) | 4.00 |
+| P - Left (instructed) | 1.00 |
+| P - Right (uninstructed) | 4.00 |
 | Supervisor | 3.00 |
 | Combined | 3.50 |
 

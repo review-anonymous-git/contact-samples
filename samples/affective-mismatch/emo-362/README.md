@@ -10,8 +10,8 @@ The topic speaker should keep the situation ordinary and low-stakes. The manipul
 
 | Rater | Affective Response MOS |
 |---|---:|
-| P (instructed) | 2.00 |
-| P (uninstructed) | 2.00 |
+| P - Left (instructed) | 2.00 |
+| P - Right (uninstructed) | 2.00 |
 | Supervisor | 4.00 |
 | Combined | 3.00 |
 

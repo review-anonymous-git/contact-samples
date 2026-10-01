@@ -10,12 +10,12 @@ Both speakers should discuss the problem naturally. The advice seeker can add co
 
 | Rater | Turn Taking MOS |
 |---|---:|
-| P (instructed) | N/A |
-| P (uninstructed) | 5.00 |
+| P - Left (uninstructed) | 5.00 |
+| P - Right (uninstructed) | 5.00 |
 | Supervisor | 5.00 |
 | Combined | 5.00 |
 
-Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating. Scores refer to the full recording.
+Both participants are uninstructed; individual scores are shown separately. Combined uses their mean and the supervisor rating. Scores refer to the full recording.
 
 [Play video](https://review-anonymous-git.github.io/contact-samples/#tt-019) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mov)
 

@@ -27,7 +27,7 @@
           "combined": 5.0
         }
       },
-      "participant_policy": "Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating",
+      "participant_policy": "Both participants are uninstructed; individual scores are shown separately. Combined uses their mean and the supervisor rating",
       "demographics": {
         "age_ranges": [
           "38-47",
@@ -58,7 +58,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": "left",
+          "speaker_id": "005",
+          "instruction_role": "uninstructed",
+          "score": 5.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "006",
+          "instruction_role": "uninstructed",
+          "score": 5.0
+        }
+      ],
+      "participant_position_mapping": "same_role_and_score"
     },
     {
       "sample_id": "tt-039",
@@ -116,7 +131,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-039.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-039.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-039.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "instructed",
+          "score": 1.0
+        },
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "uninstructed",
+          "score": 2.0
+        }
+      ],
+      "participant_position_mapping": "unresolved"
     },
     {
       "sample_id": "tt-004",
@@ -143,7 +173,7 @@
           "combined": 2.0
         }
       },
-      "participant_policy": "Both participants received disruption instructions; P (instructed) is their mean. Combined uses that mean and the supervisor rating",
+      "participant_policy": "Both participants are instructed; individual scores are shown separately. Combined uses their mean and the supervisor rating",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -174,7 +204,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": "left",
+          "speaker_id": "001",
+          "instruction_role": "instructed",
+          "score": 2.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "002",
+          "instruction_role": "instructed",
+          "score": 2.0
+        }
+      ],
+      "participant_position_mapping": "same_role_and_score"
     },
     {
       "sample_id": "tt-065",
@@ -232,7 +277,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "instructed",
+          "score": 2.0
+        },
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "uninstructed",
+          "score": 2.0
+        }
+      ],
+      "participant_position_mapping": "unresolved"
     },
     {
       "sample_id": "tt-031",
@@ -290,7 +350,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "instructed",
+          "score": 4.0
+        },
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "uninstructed",
+          "score": 1.0
+        }
+      ],
+      "participant_position_mapping": "unresolved"
     },
     {
       "sample_id": "tt-062",
@@ -348,7 +423,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "instructed",
+          "score": 2.0
+        },
+        {
+          "position": null,
+          "speaker_id": null,
+          "instruction_role": "uninstructed",
+          "score": 4.0
+        }
+      ],
+      "participant_position_mapping": "unresolved"
     },
     {
       "sample_id": "emo-359",
@@ -375,7 +465,7 @@
           "combined": 4.75
         }
       },
-      "participant_policy": "Neither participant received a disruption instruction; P (uninstructed) is their mean. Combined uses that mean and the supervisor rating",
+      "participant_policy": "Both participants are uninstructed; individual scores are shown separately. Combined uses their mean and the supervisor rating",
       "demographics": {
         "age_ranges": [
           "28-37",
@@ -406,7 +496,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": "left",
+          "speaker_id": "107",
+          "instruction_role": "uninstructed",
+          "score": 5.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "108",
+          "instruction_role": "uninstructed",
+          "score": 4.0
+        }
+      ],
+      "participant_position_mapping": "assignment_label"
     },
     {
       "sample_id": "emo-360",
@@ -464,7 +569,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": "left",
+          "speaker_id": "107",
+          "instruction_role": "instructed",
+          "score": 1.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "108",
+          "instruction_role": "uninstructed",
+          "score": 4.0
+        }
+      ],
+      "participant_position_mapping": "assignment_label"
     },
     {
       "sample_id": "emo-361",
@@ -522,7 +642,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": "left",
+          "speaker_id": "107",
+          "instruction_role": "uninstructed",
+          "score": 2.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "108",
+          "instruction_role": "instructed",
+          "score": 4.0
+        }
+      ],
+      "participant_position_mapping": "assignment_label"
     },
     {
       "sample_id": "emo-362",
@@ -580,7 +715,22 @@
         "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mp4",
         "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.wav",
         "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mov"
-      }
+      },
+      "participant_details": [
+        {
+          "position": "left",
+          "speaker_id": "107",
+          "instruction_role": "instructed",
+          "score": 2.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "108",
+          "instruction_role": "uninstructed",
+          "score": 2.0
+        }
+      ],
+      "participant_position_mapping": "assignment_label"
     },
     {
       "sample_id": "hai-179",

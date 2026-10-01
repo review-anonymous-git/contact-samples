@@ -10,8 +10,8 @@ The manipulated speaker should defend their view using repeated fragmented pause
 
 | Rater | Turn Taking MOS |
 |---|---:|
-| P (instructed) | 2.00 |
-| P (uninstructed) | 2.00 |
+| P (instructed; side unconfirmed) | 2.00 |
+| P (uninstructed; side unconfirmed) | 2.00 |
 | Supervisor | 2.00 |
 | Combined | 2.00 |
 

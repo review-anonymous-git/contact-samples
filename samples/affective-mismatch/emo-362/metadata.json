@@ -54,5 +54,20 @@
     "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mp4",
     "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.wav",
     "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mov"
-  }
+  },
+  "participant_details": [
+    {
+      "position": "left",
+      "speaker_id": "107",
+      "instruction_role": "instructed",
+      "score": 2.0
+    },
+    {
+      "position": "right",
+      "speaker_id": "108",
+      "instruction_role": "uninstructed",
+      "score": 2.0
+    }
+  ],
+  "participant_position_mapping": "assignment_label"
 }

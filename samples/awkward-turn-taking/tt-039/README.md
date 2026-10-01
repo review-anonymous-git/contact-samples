@@ -10,8 +10,8 @@ After inviting the partner's thoughts, the manipulated speaker should resume the
 
 | Rater | Turn Taking MOS |
 |---|---:|
-| P (instructed) | 1.00 |
-| P (uninstructed) | 2.00 |
+| P (instructed; side unconfirmed) | 1.00 |
+| P (uninstructed; side unconfirmed) | 2.00 |
 | Supervisor | 2.00 |
 | Combined | 2.00 |
 

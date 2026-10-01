@@ -10,8 +10,8 @@ The manipulated speaker should stop during a proposal or decision point without 
 
 | Rater | Turn Taking MOS |
 |---|---:|
-| P (instructed) | 2.00 |
-| P (uninstructed) | 4.00 |
+| P (instructed; side unconfirmed) | 2.00 |
+| P (uninstructed; side unconfirmed) | 4.00 |
 | Supervisor | 2.00 |
 | Combined | 3.00 |
 
