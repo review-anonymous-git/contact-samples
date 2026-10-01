@@ -57,17 +57,17 @@
   },
   "participant_details": [
     {
-      "position": null,
-      "speaker_id": null,
+      "position": "left",
+      "speaker_id": "017",
       "instruction_role": "instructed",
       "score": 2.0
     },
     {
-      "position": null,
-      "speaker_id": null,
+      "position": "right",
+      "speaker_id": "018",
       "instruction_role": "uninstructed",
       "score": 2.0
     }
   ],
-  "participant_position_mapping": "unresolved"
+  "participant_position_mapping": "user_confirmed"
 }

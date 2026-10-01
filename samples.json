@@ -280,19 +280,19 @@
       },
       "participant_details": [
         {
-          "position": null,
-          "speaker_id": null,
+          "position": "left",
+          "speaker_id": "017",
           "instruction_role": "instructed",
           "score": 2.0
         },
         {
-          "position": null,
-          "speaker_id": null,
+          "position": "right",
+          "speaker_id": "018",
           "instruction_role": "uninstructed",
           "score": 2.0
         }
       ],
-      "participant_position_mapping": "unresolved"
+      "participant_position_mapping": "user_confirmed"
     },
     {
       "sample_id": "tt-031",
@@ -353,19 +353,19 @@
       },
       "participant_details": [
         {
-          "position": null,
-          "speaker_id": null,
-          "instruction_role": "instructed",
-          "score": 4.0
-        },
-        {
-          "position": null,
-          "speaker_id": null,
+          "position": "left",
+          "speaker_id": "007",
           "instruction_role": "uninstructed",
           "score": 1.0
+        },
+        {
+          "position": "right",
+          "speaker_id": "008",
+          "instruction_role": "instructed",
+          "score": 4.0
         }
       ],
-      "participant_position_mapping": "unresolved"
+      "participant_position_mapping": "user_confirmed"
     },
     {
       "sample_id": "tt-062",
@@ -426,19 +426,19 @@
       },
       "participant_details": [
         {
-          "position": null,
-          "speaker_id": null,
+          "position": "left",
+          "speaker_id": "015",
           "instruction_role": "instructed",
           "score": 2.0
         },
         {
-          "position": null,
-          "speaker_id": null,
+          "position": "right",
+          "speaker_id": "016",
           "instruction_role": "uninstructed",
           "score": 4.0
         }
       ],
-      "participant_position_mapping": "unresolved"
+      "participant_position_mapping": "user_confirmed"
     },
     {
       "sample_id": "emo-359",
