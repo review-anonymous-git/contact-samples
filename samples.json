@@ -1,6 +1,6 @@
 {
   "title": "CONTACT: A Human-Grounded Benchmark and Surprisal-Based Predictive Scorer for Conversational Naturalness",
-  "release": "samples-v1",
+  "release": "samples-v2-presentation",
   "samples": [
     {
       "sample_id": "tt-019",
@@ -55,9 +55,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-019.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-019.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-019.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-019.mov"
       },
       "participant_details": [
         {
@@ -128,9 +128,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-039.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-039.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-039.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-039.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-039.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-039.mov"
       },
       "participant_details": [
         {
@@ -201,9 +201,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.mov"
       },
       "participant_details": [
         {
@@ -274,9 +274,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-065.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-065.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-065.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-065.mov"
       },
       "participant_details": [
         {
@@ -347,9 +347,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-031.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-031.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-031.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-031.mov"
       },
       "participant_details": [
         {
@@ -420,9 +420,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-062.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-062.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-062.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-062.mov"
       },
       "participant_details": [
         {
@@ -493,9 +493,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-359.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-359.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-359.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-359.mov"
       },
       "participant_details": [
         {
@@ -566,9 +566,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-360.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-360.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-360.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-360.mov"
       },
       "participant_details": [
         {
@@ -639,9 +639,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-361.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-361.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-361.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-361.mov"
       },
       "participant_details": [
         {
@@ -712,9 +712,9 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/emo-362.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-362.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-362.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-362.mov"
       },
       "participant_details": [
         {
@@ -792,9 +792,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-179.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-179.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-179.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-179.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-179.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-179.mov"
       }
     },
     {
@@ -857,9 +857,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-181.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-181.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-181.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-181.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-181.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-181.mov"
       }
     },
     {
@@ -922,9 +922,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-182.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-182.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-182.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-182.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-182.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-182.mov"
       }
     },
     {
@@ -987,9 +987,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-185.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-185.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-185.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-185.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-185.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-185.mov"
       }
     },
     {
@@ -1052,9 +1052,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-188.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-188.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-188.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-188.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-188.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-188.mov"
       }
     },
     {
@@ -1117,9 +1117,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-189.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-189.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-189.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-189.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-189.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-189.mov"
       }
     },
     {
@@ -1182,9 +1182,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-190.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-190.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-190.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-190.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-190.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-190.mov"
       }
     },
     {
@@ -1247,9 +1247,9 @@
       "video_layout": "Human participant only",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-192.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-192.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/hai-192.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-192.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-192.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-192.mov"
       }
     }
   ]

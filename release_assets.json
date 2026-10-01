@@ -1,303 +1,23 @@
 {
-  "tag": "samples-v1",
+  "tag": "samples-v2-presentation",
   "samples": [
-    {
-      "sample_id": "emo-359",
-      "files": [
-        {
-          "name": "emo-359.wav",
-          "bytes": 47513132,
-          "sha256": "07b5042706a8b0abe2a174f752361ed5f02ad20c440c7dba3274994a0c5fb850"
-        },
-        {
-          "name": "emo-359.mov",
-          "bytes": 130532762,
-          "sha256": "9f29e76bd0afae47f45bfbe0dcb9b09ab7223f2a3e1f0e9ae3d1bd7d44a20feb"
-        },
-        {
-          "name": "emo-359.mp4",
-          "bytes": 13377849,
-          "sha256": "9150c7bd36ef12bebe062fe2b8c0f21010a72127bb3f057714be98a6845ecc12"
-        }
-      ]
-    },
-    {
-      "sample_id": "emo-360",
-      "files": [
-        {
-          "name": "emo-360.wav",
-          "bytes": 48872492,
-          "sha256": "bc3142708f8cef28d9834202acb7f0d36999b0ad7e6a98f96ff79c2696c3cbaf"
-        },
-        {
-          "name": "emo-360.mov",
-          "bytes": 143767611,
-          "sha256": "05f33b2fc17b3a4db8a2b590b3042f170262ffd20a503c7fc927c113a456a927"
-        },
-        {
-          "name": "emo-360.mp4",
-          "bytes": 16115162,
-          "sha256": "5db838146b606e047e52ded0219dcde1ebe64b69788059eb32a2f7b5e3832df8"
-        }
-      ]
-    },
-    {
-      "sample_id": "emo-361",
-      "files": [
-        {
-          "name": "emo-361.wav",
-          "bytes": 49863212,
-          "sha256": "2934920c9c09148f883c7eab50919916e469675e3e0ade11a7c8f453be5e5bf6"
-        },
-        {
-          "name": "emo-361.mov",
-          "bytes": 130482653,
-          "sha256": "f30bfca701eb04d34ce1a8ca1066d6a1c5cb5d2ed61b057c5b96f53d216669b6"
-        },
-        {
-          "name": "emo-361.mp4",
-          "bytes": 12933067,
-          "sha256": "52562631672da0ad1e82d56ac7cbfcf1349d366a07ccd7619f298a6c70df7853"
-        }
-      ]
-    },
-    {
-      "sample_id": "emo-362",
-      "files": [
-        {
-          "name": "emo-362.wav",
-          "bytes": 46743596,
-          "sha256": "aeb30b13ec452647442300bf830d671ad4320fdea4d02b71b644209ba6cd8881"
-        },
-        {
-          "name": "emo-362.mov",
-          "bytes": 140987840,
-          "sha256": "8d0ba3b02cd451ba9a59e1b32daf5dc7d14607a7d20eb3119d49bcb80f5eed03"
-        },
-        {
-          "name": "emo-362.mp4",
-          "bytes": 15904668,
-          "sha256": "12236645ee7ed4a293608c5a6780c263a7069ec6f36d2e02d45d89257ff2cadd"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-179",
-      "files": [
-        {
-          "name": "hai-179.wav",
-          "bytes": 77073452,
-          "sha256": "8ac6bd1a52594ebb94d113771f7055cee42bf6800ecc841bc4412e79f82b3dd6"
-        },
-        {
-          "name": "hai-179.mov",
-          "bytes": 108153126,
-          "sha256": "ff469e737f4a56bc89c20aa7e2aee7ccffee5c3c28738402d8d93e0fb827e97b"
-        },
-        {
-          "name": "hai-179.mp4",
-          "bytes": 31193437,
-          "sha256": "7eb1f8a55ca7abc81fd3d3c1238a3b680e586bb97baad04a70eb20d566f2c219"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-181",
-      "files": [
-        {
-          "name": "hai-181.wav",
-          "bytes": 67931180,
-          "sha256": "b5f5b1487d29aa375dde4e2fb9b0ad8100c7e7e5e005a98e66db64056ff04459"
-        },
-        {
-          "name": "hai-181.mov",
-          "bytes": 95342711,
-          "sha256": "942057feb775fed6526a4a752a700f3f85abf04955b65a6bc9d6b8349068e6ed"
-        },
-        {
-          "name": "hai-181.mp4",
-          "bytes": 27072577,
-          "sha256": "a4294bbf15e91485ef3bfb66d024dd3cb1a75bfece48f5e11c0c46fc2f27dd74"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-182",
-      "files": [
-        {
-          "name": "hai-182.wav",
-          "bytes": 58646060,
-          "sha256": "f78556dd809c2f995e32b893efa78b1c37a953dc0b0fb574843793dc8e3fbf7f"
-        },
-        {
-          "name": "hai-182.mov",
-          "bytes": 82299266,
-          "sha256": "807b8410d80728cf6f16104a269d18b1462ca265bf142bfbe7e442399d2a1efa"
-        },
-        {
-          "name": "hai-182.mp4",
-          "bytes": 22377861,
-          "sha256": "e56d8dae077bed89a1236e4bc9f1a8c8a631e2636786082009ef7c4d47ee9e99"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-185",
-      "files": [
-        {
-          "name": "hai-185.wav",
-          "bytes": 52554284,
-          "sha256": "9cb1873d6971d785b59c4ffd354ae0a6feb18251f688b8ae7097703397470dd1"
-        },
-        {
-          "name": "hai-185.mov",
-          "bytes": 73807903,
-          "sha256": "46d5e89ecddaf4f353a55fcf9aa1b8af131d6267fe251e7646d78de30882177b"
-        },
-        {
-          "name": "hai-185.mp4",
-          "bytes": 21787569,
-          "sha256": "4076d31ef761f6b4d50ac57d87d73531eb74a7db0ce874b20db517a6cbee1d79"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-188",
-      "files": [
-        {
-          "name": "hai-188.wav",
-          "bytes": 61085740,
-          "sha256": "1be2702964e1b4d930ac4beb828711700baba0ccb66fdf3d2946435453f75e78"
-        },
-        {
-          "name": "hai-188.mov",
-          "bytes": 165332376,
-          "sha256": "6294153d7206296165057611bc34d348aad5c5166dc66c6959dd7b3bd3739b16"
-        },
-        {
-          "name": "hai-188.mp4",
-          "bytes": 22329176,
-          "sha256": "4e90add2e1acce9e6503cae1236f35104eda3e3063064f7588be5ee52af8fe4a"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-189",
-      "files": [
-        {
-          "name": "hai-189.wav",
-          "bytes": 66087980,
-          "sha256": "06ee9954c001d76fa59a7c6dd8f536032a662cfaa1ee055d2fae45ac8d2c035b"
-        },
-        {
-          "name": "hai-189.mov",
-          "bytes": 181766406,
-          "sha256": "9324267c31552da6a7b8622f4b942eef26d78ab9a9d5ae33d402e6c16a76ffb1"
-        },
-        {
-          "name": "hai-189.mp4",
-          "bytes": 26016344,
-          "sha256": "105fc5f1ff588b7efcb4c0e9e154429e4acf930202220cbfb85f3b437a251d39"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-190",
-      "files": [
-        {
-          "name": "hai-190.wav",
-          "bytes": 57950252,
-          "sha256": "8fecbd3822275706ce35f6b284ea6bca3b693f232df6c4d360e016a1f10ea514"
-        },
-        {
-          "name": "hai-190.mov",
-          "bytes": 156607376,
-          "sha256": "67f2dd5c33f3d01a99976e5279a5094ab84c1da2c204e41c07716bc776490c29"
-        },
-        {
-          "name": "hai-190.mp4",
-          "bytes": 23216255,
-          "sha256": "b06c7f5fffb67eee4c80f3ac49ef4d948f27a72bf8c9225145fb9ee0bd960b5c"
-        }
-      ]
-    },
-    {
-      "sample_id": "hai-192",
-      "files": [
-        {
-          "name": "hai-192.wav",
-          "bytes": 60203564,
-          "sha256": "af9aaefc72928965ea59fb958c18e749574c7490130d12f0ab57867274d91964"
-        },
-        {
-          "name": "hai-192.mov",
-          "bytes": 171122157,
-          "sha256": "49d46e3ad2c7e6bcd80b14061406daea5383c6bd63e2fd1ade437c8425415ea1"
-        },
-        {
-          "name": "hai-192.mp4",
-          "bytes": 23979682,
-          "sha256": "2da862a79ee52f514da85f1b6fe695f9a2b3c0cb30a006207c86ac96a4258b48"
-        }
-      ]
-    },
-    {
-      "sample_id": "tt-004",
-      "files": [
-        {
-          "name": "tt-004.wav",
-          "bytes": 50743340,
-          "sha256": "74f6fc0e7fbf84e9d35ee1b1479d8de9363e739e6cc144d011ff8cb8c72e8f36"
-        },
-        {
-          "name": "tt-004.mov",
-          "bytes": 240471800,
-          "sha256": "164589bafdce629070856808dd4f152e1aaa727fe5cba0a9305b2095209f56c9"
-        },
-        {
-          "name": "tt-004.mp4",
-          "bytes": 25189369,
-          "sha256": "a6f7cca3db84cc11cf624592b3909990dfd8f9068674287069484141dcd06ebf"
-        }
-      ]
-    },
     {
       "sample_id": "tt-019",
       "files": [
         {
           "name": "tt-019.wav",
-          "bytes": 48213548,
-          "sha256": "4d90e40e6a5fa98bfa0a0c07ba0af78c2e4a58e6af3c7e1aa9af6ec05ea26b9c"
+          "bytes": 48213582,
+          "sha256": "7fabe365de7137a44bb6809a567b5eaf40b685e979433844f8d3efe986b1edd9"
         },
         {
           "name": "tt-019.mov",
-          "bytes": 115456585,
-          "sha256": "98246c76fef8ecdcab495031d53e9e0ae90cdcd08b3c2cf1f717ec9cc293cff8"
+          "bytes": 92008972,
+          "sha256": "c043191060746bd38efd98d167c61cc7d904a24a0394f58ba72cb37b4f3bcd3f"
         },
         {
           "name": "tt-019.mp4",
-          "bytes": 14820297,
-          "sha256": "8c291213b81f73c8ac146b0cf4d7fde4bf74f8a336dbb759a32975e8912bbcbe"
-        }
-      ]
-    },
-    {
-      "sample_id": "tt-031",
-      "files": [
-        {
-          "name": "tt-031.wav",
-          "bytes": 48119084,
-          "sha256": "98256c251c808125ede05755f6ce7551d6f70579dfd5afa7913bdd898e1e5695"
-        },
-        {
-          "name": "tt-031.mov",
-          "bytes": 99929852,
-          "sha256": "ef35ba1ed0d800818f2aee154716989fecbec48a3f077e04efd43c2d8b797378"
-        },
-        {
-          "name": "tt-031.mp4",
-          "bytes": 11932993,
-          "sha256": "afdd04382673fa559237b935efdb3cc383adfa5e739a86d8ea683474255fc235"
+          "bytes": 15644345,
+          "sha256": "4687baf4f42a9eba6078e3d5b102a17cc3330d2b0fbae76b0de410f82d047128"
         }
       ]
     },
@@ -306,38 +26,38 @@
       "files": [
         {
           "name": "tt-039.wav",
-          "bytes": 46909484,
-          "sha256": "0118b2a16a5ff0304a32d474cc8da0773dd5b0f03d1890cab6778d170dffad26"
+          "bytes": 46909518,
+          "sha256": "8205f330a5bfedf060472187d93884042a45940f9a1fbfc8456ea0fc683795f6"
         },
         {
           "name": "tt-039.mov",
-          "bytes": 121795198,
-          "sha256": "60f2e4c64cfbf3712d6bd247c01651c4754b32bcccc2446bf31f58e4710f7470"
+          "bytes": 99312729,
+          "sha256": "a1f85b2f66370d7ba7a9658b59edbd3dd52e69a2c0d13ea0fbb797a110381a04"
         },
         {
           "name": "tt-039.mp4",
-          "bytes": 18241070,
-          "sha256": "85c4f09bacc3e43e8fb72553c6f74f6cb5bd8c6d7362138afd62576386f6f8d3"
+          "bytes": 17514457,
+          "sha256": "64fc66b7f7461bd9c8ac7974595ab807e1518411722a54381f861681cd9c3e29"
         }
       ]
     },
     {
-      "sample_id": "tt-062",
+      "sample_id": "tt-004",
       "files": [
         {
-          "name": "tt-062.wav",
-          "bytes": 47029292,
-          "sha256": "778ac93d0d65e81cbaf5e40e047b5452c3027804f1c57ac9ea4ea2a679746593"
+          "name": "tt-004.wav",
+          "bytes": 50743374,
+          "sha256": "4702b2c3e106da931630a4c9be07dab2353b74eadcdd12b381c6f12f98b1909a"
         },
         {
-          "name": "tt-062.mov",
-          "bytes": 112668459,
-          "sha256": "625b1797891778d5e40d701fee911a2b666a5a1cdba06cbb7132d5f781b5ef95"
+          "name": "tt-004.mov",
+          "bytes": 108255504,
+          "sha256": "8d7bd61e12db5cdba4069aec0ebcdcce3f6f88bddcad1dd7bee227c232ad4ae2"
         },
         {
-          "name": "tt-062.mp4",
-          "bytes": 13570407,
-          "sha256": "4d086eeab9eeeee98ac859d3ed6bf78e478c5416cc35de8f17e78bf4c556beeb"
+          "name": "tt-004.mp4",
+          "bytes": 17181406,
+          "sha256": "d80965e2d9b04f7de1518c83f197a0d0c9f182d81803d160cde8592c43e4edfb"
         }
       ]
     },
@@ -346,18 +66,298 @@
       "files": [
         {
           "name": "tt-065.wav",
-          "bytes": 47766572,
-          "sha256": "d8108f082e7999116141321b826a9d191e17db21da46e3012180b51cc446b78d"
+          "bytes": 47766606,
+          "sha256": "50faa051d845588619f4cc034bbb00f3d966a32b52f22ec52420bfae42221fe8"
         },
         {
           "name": "tt-065.mov",
-          "bytes": 108708036,
-          "sha256": "f02d0db44293693ed3a410e181e9bd4f129e1891d3d792d5cddc35358d552ca7"
+          "bytes": 58358645,
+          "sha256": "d8a9555d424a54afaff1e46861660e8ee6d89ba40df29438591eeb3c7fadff58"
         },
         {
           "name": "tt-065.mp4",
-          "bytes": 11746518,
-          "sha256": "cb74d3a4b651a12f03d62870d958a6ef6de39a12f9da93308d44bd821dc2acfa"
+          "bytes": 11065520,
+          "sha256": "517ac487f692433d958872e0b55f4a525d3c7bf3ef5d303cb8f00dbfcb26e51c"
+        }
+      ]
+    },
+    {
+      "sample_id": "tt-031",
+      "files": [
+        {
+          "name": "tt-031.wav",
+          "bytes": 48119118,
+          "sha256": "f06e28f98f2604ca78231d191aa88f97353f037deef29a8e0978b734cf10ce13"
+        },
+        {
+          "name": "tt-031.mov",
+          "bytes": 71983293,
+          "sha256": "d0301877ab896417901c376e9c9eebbaef655593c5a328e4eab44c498a3bb3e9"
+        },
+        {
+          "name": "tt-031.mp4",
+          "bytes": 10555987,
+          "sha256": "0cf4c11ad0e313424836684e45b726e9b41699783e7f3442409a5c903d36b5de"
+        }
+      ]
+    },
+    {
+      "sample_id": "tt-062",
+      "files": [
+        {
+          "name": "tt-062.wav",
+          "bytes": 47029326,
+          "sha256": "2c629bd24d12723ab3abf039b6022e431e0cdc15b3ebdd6702eace3acf661ec3"
+        },
+        {
+          "name": "tt-062.mov",
+          "bytes": 85751899,
+          "sha256": "54b77fb39c63220d8e7c45047d109491a20b384144bdb30995033a0ca0a19a07"
+        },
+        {
+          "name": "tt-062.mp4",
+          "bytes": 12896679,
+          "sha256": "83670cfc659c2f83056c0e8ac7d47809954b2a46ccf4ed3fd5c2851870837543"
+        }
+      ]
+    },
+    {
+      "sample_id": "emo-359",
+      "files": [
+        {
+          "name": "emo-359.wav",
+          "bytes": 47513166,
+          "sha256": "7a15b4864f74c45dac1ffdc81d1b1a36ba4f7d61defa16e958555836da3ff112"
+        },
+        {
+          "name": "emo-359.mov",
+          "bytes": 58759009,
+          "sha256": "d0882b95680edcccedac5c046cae40f690d08c64a6a30ed850a7229d81658a32"
+        },
+        {
+          "name": "emo-359.mp4",
+          "bytes": 11264417,
+          "sha256": "533be795920955703eb4aac5bbb6b2a19669fb1703c17fab943c0d0a5213ed45"
+        }
+      ]
+    },
+    {
+      "sample_id": "emo-360",
+      "files": [
+        {
+          "name": "emo-360.wav",
+          "bytes": 48872526,
+          "sha256": "c7638d3eaf878c2495ad859801faad3fbcf1a6e98a72a0fb85ec6bd7915a491f"
+        },
+        {
+          "name": "emo-360.mov",
+          "bytes": 88931364,
+          "sha256": "2a113302a3298262590ba21e324ad98ee1c0644568ae827b8bd010ef8d7346ce"
+        },
+        {
+          "name": "emo-360.mp4",
+          "bytes": 13113472,
+          "sha256": "88e7adf48baa6db424a4071c20b0395dbeaae4fb0ec55232c820bb3f57964ea5"
+        }
+      ]
+    },
+    {
+      "sample_id": "emo-361",
+      "files": [
+        {
+          "name": "emo-361.wav",
+          "bytes": 49863246,
+          "sha256": "cb8b427d887a4cd47d916af3a8f75de29d0fa22c107f28ae26ae4f9515a75e28"
+        },
+        {
+          "name": "emo-361.mov",
+          "bytes": 81474615,
+          "sha256": "a488dca63f200af58bade70fc04095b6aafa533a3bb565d1d22ec12a952d2278"
+        },
+        {
+          "name": "emo-361.mp4",
+          "bytes": 11390653,
+          "sha256": "8aed34196d569a94e86bc1f2bb49c88d5e82c7f9a727ac0de8e0828a3a8fefb8"
+        }
+      ]
+    },
+    {
+      "sample_id": "emo-362",
+      "files": [
+        {
+          "name": "emo-362.wav",
+          "bytes": 46743630,
+          "sha256": "de0b05ede3584f724b6853089a9085f94e1d28681a54352adbcc86950074ba86"
+        },
+        {
+          "name": "emo-362.mov",
+          "bytes": 89124667,
+          "sha256": "f56958be6a1e047f3511330ab34c0177fbd0bd150ccc0a7d8fff571998532033"
+        },
+        {
+          "name": "emo-362.mp4",
+          "bytes": 13802127,
+          "sha256": "f1dd40b21c982db321bdd46c5ee51c7d01fc5588037852019d36e0f173c169e3"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-179",
+      "files": [
+        {
+          "name": "hai-179.wav",
+          "bytes": 77073486,
+          "sha256": "ba0babdde54e9713ec5b5e418b574fcee3f926b6040d060ac722b1100f356dd6"
+        },
+        {
+          "name": "hai-179.mov",
+          "bytes": 116418003,
+          "sha256": "1b87e295c08e8e166e50012f0b6ac1570f8567a7f8e5dd437dc78d5d44269dbf"
+        },
+        {
+          "name": "hai-179.mp4",
+          "bytes": 25709882,
+          "sha256": "621857976f0d747b34188d96a53ca282464568bfc5eaed62a4536c686c7d1c07"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-181",
+      "files": [
+        {
+          "name": "hai-181.wav",
+          "bytes": 67931214,
+          "sha256": "6efa730656e4d3b84c95ed1050f29bb88a755e6496ecc2cc7505477d01feb771"
+        },
+        {
+          "name": "hai-181.mov",
+          "bytes": 100738588,
+          "sha256": "fb911eedcb707cbdd141e71f7d76e08829ab318c1a474cb6b476db709a84a584"
+        },
+        {
+          "name": "hai-181.mp4",
+          "bytes": 21567121,
+          "sha256": "3b7519a7e372e9629626ef4dffdde0595555a0566860524ce817de91653ea118"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-182",
+      "files": [
+        {
+          "name": "hai-182.wav",
+          "bytes": 58646094,
+          "sha256": "301674fcbfd8830f0c7d73dcdc70128e9e107d4bb5e55f89ae34293f46a0f2ba"
+        },
+        {
+          "name": "hai-182.mov",
+          "bytes": 86034351,
+          "sha256": "709466315d413ef2f17f47486c21763f95e151f09647e86dc7f9a02aef3dbf7e"
+        },
+        {
+          "name": "hai-182.mp4",
+          "bytes": 18022952,
+          "sha256": "0d0a972e70b71266590db1b1a5a78f5e2e42300d84f37f81cf9b86ec900604aa"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-185",
+      "files": [
+        {
+          "name": "hai-185.wav",
+          "bytes": 52554318,
+          "sha256": "70bdd21257982e7cc15662bd7e25e6f1419f4fde047b7fe9c16b6de38cea3e4d"
+        },
+        {
+          "name": "hai-185.mov",
+          "bytes": 79763177,
+          "sha256": "8d34deb2aea4ec06f1c563de271e114b9d01d1baad8e8829055a69ca4bab4a17"
+        },
+        {
+          "name": "hai-185.mp4",
+          "bytes": 17821603,
+          "sha256": "1963dbfc4ed6bdedccdff18e290637f22772054aed3f2bfca31ff5d188fa665b"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-188",
+      "files": [
+        {
+          "name": "hai-188.wav",
+          "bytes": 61085774,
+          "sha256": "9c26d5cfb896be22f174107327257da69a5c8b68e7ac11c5d94b5d91f3844f63"
+        },
+        {
+          "name": "hai-188.mov",
+          "bytes": 102546950,
+          "sha256": "c9ed76eda91fb67dc0f7c05acda8a336e4eabc3face105cf15544f0a4cbae58b"
+        },
+        {
+          "name": "hai-188.mp4",
+          "bytes": 15955320,
+          "sha256": "2953233a38313d9e81c39a44137f3e3865e8bce82849b61a1436e088923de45e"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-189",
+      "files": [
+        {
+          "name": "hai-189.wav",
+          "bytes": 66088014,
+          "sha256": "04117c8be2a544820a9093c491284607b38d36cc26b2cabe5cbdeb79f53481ff"
+        },
+        {
+          "name": "hai-189.mov",
+          "bytes": 114748237,
+          "sha256": "aa5e5862175e5c05a4e3f3e6ccbee6d958f664b82f3a7b4950acc1429438b929"
+        },
+        {
+          "name": "hai-189.mp4",
+          "bytes": 18088465,
+          "sha256": "5a4a9fb7fc3e04b737f7054ce84a92131b1201e1df1d94f57f45122eab9d5f82"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-190",
+      "files": [
+        {
+          "name": "hai-190.wav",
+          "bytes": 57950286,
+          "sha256": "fbf1f74d61391d39729919aeed5da8076f66473c41267cc23d47272a6a5f23da"
+        },
+        {
+          "name": "hai-190.mov",
+          "bytes": 92846055,
+          "sha256": "50b7ca64b53483a17535ebdb2d78127cbd69d9876192d999bdfb272b801b019f"
+        },
+        {
+          "name": "hai-190.mp4",
+          "bytes": 14045369,
+          "sha256": "f0dd9c8aec283728a1195acc7d9b87f9584abf70ee62db1cecdbc5155dcfd5a4"
+        }
+      ]
+    },
+    {
+      "sample_id": "hai-192",
+      "files": [
+        {
+          "name": "hai-192.wav",
+          "bytes": 60203598,
+          "sha256": "48f37bdf9cd9bb65d9897036bf9c99e7fcc0f9136118951fef2a1433618966c3"
+        },
+        {
+          "name": "hai-192.mov",
+          "bytes": 103209887,
+          "sha256": "5da7bbae4a32f9d6666832437f63f8cbb8b1b2ebb8576332bcc18e57f0f57408"
+        },
+        {
+          "name": "hai-192.mp4",
+          "bytes": 15877830,
+          "sha256": "e2442134680f2a3f135b9d0c3ad7c0c653b32db79301568157817ddfa4b50b5a"
         }
       ]
     }

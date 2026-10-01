@@ -17,7 +17,7 @@ The non-storytelling speaker should at some point begin speaking and continue wi
 
 Both participants are instructed; individual scores are shown separately. Combined uses their mean and the supervisor rating. Scores refer to the full recording.
 
-[Play video](https://review-anonymous-git.github.io/contact-samples/#tt-004) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v1/tt-004.mov)
+[Play video](https://review-anonymous-git.github.io/contact-samples/#tt-004) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.mov)
 
 Channel roles, speaker IDs and padding are recorded in [metadata.json](metadata.json).
 
@@ -26,3 +26,7 @@ Channel roles, speaker IDs and padding are recorded in [metadata.json](metadata.
 Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.
 
 Age ranges: 28-37, 28-37. Unordered participant pair; not linked to speaker IDs or left/right channels.
+
+## Presentation Copies
+
+Display copies: the two audio channels are independently level-normalized and video backgrounds are matted onto light gray using Robust Video Matting; chair and edge remnants may remain. Ratings refer to the original recordings. These copies are not inputs to the paper's audio or timing analyses. Faces and voices remain identifiable.
