@@ -17,7 +17,7 @@ After inviting the partner's thoughts, the manipulated speaker should resume the
 
 Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings. Scores refer to the full recording.
 
-[Play video](https://review-anonymous-git.github.io/contact-samples/#tt-039) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/tt-039.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/tt-039.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/tt-039.mov)
+[Play video](https://review-anonymous-git.github.io/contact-samples/#tt-039) · [Download MP4](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-039.mp4) · [Stereo WAV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-039.wav) · [Stereo MOV](https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-039.mov)
 
 Channel roles, speaker IDs and padding are recorded in [metadata.json](metadata.json).
 
@@ -29,4 +29,4 @@ Age ranges: 48-57, 58+. Unordered participant pair; not linked to speaker IDs or
 
 ## Presentation Copies
 
-Display copies: the two audio channels are independently level-normalized and video backgrounds are matted onto light gray using Robust Video Matting; chair and edge remnants may remain. Ratings refer to the original recordings. These copies are not inputs to the paper's audio or timing analyses. Faces and voices remain identifiable. ClearVoice (MossFormer2_SE_48K) speech enhancement is applied to tt-039, emo-361, hai-179: both human channels in H-H, and only the human channel in H-AI. Channel loudness is matched after enhancement. Other examples retain their previous audio. Enhancement may alter quiet vocalizations; the original media release is retained.
+Display copies: the two audio channels are independently level-normalized and video backgrounds are matted onto light gray using Robust Video Matting; chair and edge remnants may remain. Ratings refer to the original recordings. These copies are not inputs to the paper's audio or timing analyses. Faces and voices remain identifiable. ClearVoice (MossFormer2_SE_48K) speech enhancement is applied to all 18 examples: both human channels in H-H, and only the human channel in H-AI. Channel loudness is matched after enhancement. Enhancement may alter quiet vocalizations; the original media release is retained.

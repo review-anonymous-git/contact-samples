@@ -1,5 +1,5 @@
 {
-  "tag": "samples-v3-clearvoice",
+  "tag": "samples-v4-clearvoice-all",
   "samples": [
     {
       "sample_id": "tt-019",
@@ -7,20 +7,20 @@
         {
           "name": "tt-019.wav",
           "bytes": 48213582,
-          "sha256": "7fabe365de7137a44bb6809a567b5eaf40b685e979433844f8d3efe986b1edd9",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-019.wav"
+          "sha256": "36e3d7d7d54915e19815ae11e0cd43099486f0b939c0d3b1df505f57097bc673",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-019.wav"
         },
         {
           "name": "tt-019.mov",
           "bytes": 92008972,
-          "sha256": "c043191060746bd38efd98d167c61cc7d904a24a0394f58ba72cb37b4f3bcd3f",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-019.mov"
+          "sha256": "f7e98bac20944998e8560bfeda92462f6e91b949ffbefd542ddb730f2012dd9d",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-019.mov"
         },
         {
           "name": "tt-019.mp4",
-          "bytes": 15644345,
-          "sha256": "4687baf4f42a9eba6078e3d5b102a17cc3330d2b0fbae76b0de410f82d047128",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-019.mp4"
+          "bytes": 15661137,
+          "sha256": "9ad4964b2c27c3ef3f7842855039c05c1a080a0c4bdf2de34bf18c3e67493f7a",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-019.mp4"
         }
       ]
     },
@@ -31,19 +31,19 @@
           "name": "tt-039.wav",
           "bytes": 46909518,
           "sha256": "5455ce239e504e27b8eef9b86644df960a5290c011a6bc7ecacb8fbc0318e8cc",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/tt-039.wav"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-039.wav"
         },
         {
           "name": "tt-039.mov",
           "bytes": 99312729,
           "sha256": "4c51c04d6ffa47410ff1acf61ff7ee6f0b4bbd31b1a7513aff825384ff6dca75",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/tt-039.mov"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-039.mov"
         },
         {
           "name": "tt-039.mp4",
           "bytes": 17516093,
           "sha256": "cf81bb1115c34f7d4e46f9a22bd02673f9cdb731b568c800f39e9832b03bc9ab",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/tt-039.mp4"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-039.mp4"
         }
       ]
     },
@@ -53,20 +53,20 @@
         {
           "name": "tt-004.wav",
           "bytes": 50743374,
-          "sha256": "4702b2c3e106da931630a4c9be07dab2353b74eadcdd12b381c6f12f98b1909a",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.wav"
+          "sha256": "1691803d79354c98d21c9d892d5bb633eab3a9be5b2456f7bf68bb5932a92ae7",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-004.wav"
         },
         {
           "name": "tt-004.mov",
           "bytes": 108255504,
-          "sha256": "8d7bd61e12db5cdba4069aec0ebcdcce3f6f88bddcad1dd7bee227c232ad4ae2",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.mov"
+          "sha256": "bd210d3fbf679c8d101c8084b189b505f96e14faff3b2af6a73a56272ad99aca",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-004.mov"
         },
         {
           "name": "tt-004.mp4",
-          "bytes": 17181406,
-          "sha256": "d80965e2d9b04f7de1518c83f197a0d0c9f182d81803d160cde8592c43e4edfb",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-004.mp4"
+          "bytes": 17191920,
+          "sha256": "f39f41817ed7fdf1b00f817c10d936bdad2871646d48fdf1b158a83157b4e7aa",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-004.mp4"
         }
       ]
     },
@@ -76,20 +76,20 @@
         {
           "name": "tt-065.wav",
           "bytes": 47766606,
-          "sha256": "50faa051d845588619f4cc034bbb00f3d966a32b52f22ec52420bfae42221fe8",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-065.wav"
+          "sha256": "9ba9770a2efbb370837296eb9cf9e30c1d325cba17f43ee50e02319eee8cc069",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-065.wav"
         },
         {
           "name": "tt-065.mov",
           "bytes": 58358645,
-          "sha256": "d8a9555d424a54afaff1e46861660e8ee6d89ba40df29438591eeb3c7fadff58",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-065.mov"
+          "sha256": "b88216ee12e13aaa05b2453dac936f20bf343ce0c2d51691a7ac0c839b4c21f2",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-065.mov"
         },
         {
           "name": "tt-065.mp4",
-          "bytes": 11065520,
-          "sha256": "517ac487f692433d958872e0b55f4a525d3c7bf3ef5d303cb8f00dbfcb26e51c",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-065.mp4"
+          "bytes": 11076503,
+          "sha256": "8ad78ead903ae1fe8f6d0d68a73a38f8dc644dd431ab91621a73ec57d6068718",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-065.mp4"
         }
       ]
     },
@@ -99,20 +99,20 @@
         {
           "name": "tt-031.wav",
           "bytes": 48119118,
-          "sha256": "f06e28f98f2604ca78231d191aa88f97353f037deef29a8e0978b734cf10ce13",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-031.wav"
+          "sha256": "4b7364c8d6f0b5dc8ce9ea841e120fbaae9c179d73e80278f037cac192635ab6",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-031.wav"
         },
         {
           "name": "tt-031.mov",
           "bytes": 71983293,
-          "sha256": "d0301877ab896417901c376e9c9eebbaef655593c5a328e4eab44c498a3bb3e9",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-031.mov"
+          "sha256": "b0d1fc25ee92984ec597b71315412f9771e8a20bd92cd541ec810951cde2913c",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-031.mov"
         },
         {
           "name": "tt-031.mp4",
-          "bytes": 10555987,
-          "sha256": "0cf4c11ad0e313424836684e45b726e9b41699783e7f3442409a5c903d36b5de",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-031.mp4"
+          "bytes": 10547998,
+          "sha256": "82a7b81f4186dd1184c62e8974b144860298dffbfa447481f0b82e6f03b97e40",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-031.mp4"
         }
       ]
     },
@@ -122,20 +122,20 @@
         {
           "name": "tt-062.wav",
           "bytes": 47029326,
-          "sha256": "2c629bd24d12723ab3abf039b6022e431e0cdc15b3ebdd6702eace3acf661ec3",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-062.wav"
+          "sha256": "02d0b47e0db9f3316b65ed38a5a09a6616cb5e6d2a2b2905efc284e203ef7715",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-062.wav"
         },
         {
           "name": "tt-062.mov",
           "bytes": 85751899,
-          "sha256": "54b77fb39c63220d8e7c45047d109491a20b384144bdb30995033a0ca0a19a07",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-062.mov"
+          "sha256": "5064e6b43e20cf98dce64e6fc88843191a44c8ba181852e2c89dc4b4d31279c9",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-062.mov"
         },
         {
           "name": "tt-062.mp4",
-          "bytes": 12896679,
-          "sha256": "83670cfc659c2f83056c0e8ac7d47809954b2a46ccf4ed3fd5c2851870837543",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/tt-062.mp4"
+          "bytes": 12882010,
+          "sha256": "11924226d10ebc67333cb959153bc326ec598e4f64bfdff936af92310e70caa7",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-062.mp4"
         }
       ]
     },
@@ -145,20 +145,20 @@
         {
           "name": "emo-359.wav",
           "bytes": 47513166,
-          "sha256": "7a15b4864f74c45dac1ffdc81d1b1a36ba4f7d61defa16e958555836da3ff112",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-359.wav"
+          "sha256": "e614ce9caf821526697ff19cd8eba9f5fa5015cc0e6bb39f6bf84679afee748d",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-359.wav"
         },
         {
           "name": "emo-359.mov",
           "bytes": 58759009,
-          "sha256": "d0882b95680edcccedac5c046cae40f690d08c64a6a30ed850a7229d81658a32",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-359.mov"
+          "sha256": "c180f82b2789dab708059beeeb2ef404559b0a3546a4fd2ddb23c3f31774eb91",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-359.mov"
         },
         {
           "name": "emo-359.mp4",
-          "bytes": 11264417,
-          "sha256": "533be795920955703eb4aac5bbb6b2a19669fb1703c17fab943c0d0a5213ed45",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-359.mp4"
+          "bytes": 11250827,
+          "sha256": "caa4d5a14588bba921b6d6b80bf89233102a162ecf5c93dbafde343eaa12ea6f",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-359.mp4"
         }
       ]
     },
@@ -168,20 +168,20 @@
         {
           "name": "emo-360.wav",
           "bytes": 48872526,
-          "sha256": "c7638d3eaf878c2495ad859801faad3fbcf1a6e98a72a0fb85ec6bd7915a491f",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-360.wav"
+          "sha256": "4045bc9ae2c70c0e1385a77b9dcdace5849ac8c2bfdf7718123554467d9d951e",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-360.wav"
         },
         {
           "name": "emo-360.mov",
           "bytes": 88931364,
-          "sha256": "2a113302a3298262590ba21e324ad98ee1c0644568ae827b8bd010ef8d7346ce",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-360.mov"
+          "sha256": "94a432d69fc2dea36c16e6ca5bfa8137497136426c46a782684034338cb184d6",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-360.mov"
         },
         {
           "name": "emo-360.mp4",
-          "bytes": 13113472,
-          "sha256": "88e7adf48baa6db424a4071c20b0395dbeaae4fb0ec55232c820bb3f57964ea5",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-360.mp4"
+          "bytes": 13159093,
+          "sha256": "a77e091b1d987caa6e08acf156ddd1db36c0e599d0bac60364672fdd1c409c7b",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-360.mp4"
         }
       ]
     },
@@ -192,19 +192,19 @@
           "name": "emo-361.wav",
           "bytes": 49863246,
           "sha256": "2268c101def84a20372011f77325031b3344498c2cdf4c8307fa6879d19db265",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/emo-361.wav"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-361.wav"
         },
         {
           "name": "emo-361.mov",
           "bytes": 81474615,
           "sha256": "582e49d32a8e58d3f7456b7c129d42d0de9e8c5f8b93fd31821cf80f782e3a46",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/emo-361.mov"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-361.mov"
         },
         {
           "name": "emo-361.mp4",
           "bytes": 11368882,
           "sha256": "b3579a310352357ab1ef32cfdf18a8d00c484179137b4d456f7cb2a0ef1c5960",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/emo-361.mp4"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-361.mp4"
         }
       ]
     },
@@ -214,20 +214,20 @@
         {
           "name": "emo-362.wav",
           "bytes": 46743630,
-          "sha256": "de0b05ede3584f724b6853089a9085f94e1d28681a54352adbcc86950074ba86",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-362.wav"
+          "sha256": "35688baa755a81023875004f1944fe110f20adae6bd2e6350f385e2858a046e7",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-362.wav"
         },
         {
           "name": "emo-362.mov",
           "bytes": 89124667,
-          "sha256": "f56958be6a1e047f3511330ab34c0177fbd0bd150ccc0a7d8fff571998532033",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-362.mov"
+          "sha256": "d1b70d1cf4e675011df4a760cea417a5f2ddf82ecf219ce8fd41560b86d876c5",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-362.mov"
         },
         {
           "name": "emo-362.mp4",
-          "bytes": 13802127,
-          "sha256": "f1dd40b21c982db321bdd46c5ee51c7d01fc5588037852019d36e0f173c169e3",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/emo-362.mp4"
+          "bytes": 13849533,
+          "sha256": "9f5b8f380ccf65f55381530c835db056c46f5262e7b5b5775948ef11855d5f52",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-362.mp4"
         }
       ]
     },
@@ -238,19 +238,19 @@
           "name": "hai-179.wav",
           "bytes": 77073486,
           "sha256": "649aa3a070ac19caee0dac17ffbf8e737fc563e390f3e1754a24ec6a77127aff",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/hai-179.wav"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-179.wav"
         },
         {
           "name": "hai-179.mov",
           "bytes": 116418003,
           "sha256": "f29a4b0802e147224325650c8546cf303cae92f2842f658a4d39fc1534e7c8a1",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/hai-179.mov"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-179.mov"
         },
         {
           "name": "hai-179.mp4",
           "bytes": 25717036,
           "sha256": "4b9fdb26d7a97043e3033dfd22b2711f96020cc88c5ddf57ccca95cc2a2b1849",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/hai-179.mp4"
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-179.mp4"
         }
       ]
     },
@@ -260,20 +260,20 @@
         {
           "name": "hai-181.wav",
           "bytes": 67931214,
-          "sha256": "6efa730656e4d3b84c95ed1050f29bb88a755e6496ecc2cc7505477d01feb771",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-181.wav"
+          "sha256": "02575c3cd6e8925dda33825616ef4781938310019e21a7dfd1820b4c433a1731",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-181.wav"
         },
         {
           "name": "hai-181.mov",
           "bytes": 100738588,
-          "sha256": "fb911eedcb707cbdd141e71f7d76e08829ab318c1a474cb6b476db709a84a584",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-181.mov"
+          "sha256": "cb7a2feef91321510ff4332e618afd153d8e1f45188ff2a8526c1bd1fffe851c",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-181.mov"
         },
         {
           "name": "hai-181.mp4",
-          "bytes": 21567121,
-          "sha256": "3b7519a7e372e9629626ef4dffdde0595555a0566860524ce817de91653ea118",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-181.mp4"
+          "bytes": 21562641,
+          "sha256": "6375415a3a2023245ba7bc76abbae16edd0fe5dc94e3df8deb9c3ed303ca9025",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-181.mp4"
         }
       ]
     },
@@ -283,20 +283,20 @@
         {
           "name": "hai-182.wav",
           "bytes": 58646094,
-          "sha256": "301674fcbfd8830f0c7d73dcdc70128e9e107d4bb5e55f89ae34293f46a0f2ba",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-182.wav"
+          "sha256": "a86103b5baad59e8eace745e45114a623b59df783bdfd4e2a9ffe0df752817b1",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-182.wav"
         },
         {
           "name": "hai-182.mov",
           "bytes": 86034351,
-          "sha256": "709466315d413ef2f17f47486c21763f95e151f09647e86dc7f9a02aef3dbf7e",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-182.mov"
+          "sha256": "3b770aeb58f11fc49720933df1cdb89df74631870c4e2ee9be940c88e75b461f",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-182.mov"
         },
         {
           "name": "hai-182.mp4",
-          "bytes": 18022952,
-          "sha256": "0d0a972e70b71266590db1b1a5a78f5e2e42300d84f37f81cf9b86ec900604aa",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-182.mp4"
+          "bytes": 18021451,
+          "sha256": "6add2f65dee4744da0d5a607b53b50d62397a7fb11959714dfcf23ea64cb5d49",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-182.mp4"
         }
       ]
     },
@@ -306,20 +306,20 @@
         {
           "name": "hai-185.wav",
           "bytes": 52554318,
-          "sha256": "70bdd21257982e7cc15662bd7e25e6f1419f4fde047b7fe9c16b6de38cea3e4d",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-185.wav"
+          "sha256": "405c664e58ec4a6c25bdc6106c0e67f028a9ae25501cceef1130d551f9e647bf",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-185.wav"
         },
         {
           "name": "hai-185.mov",
           "bytes": 79763177,
-          "sha256": "8d34deb2aea4ec06f1c563de271e114b9d01d1baad8e8829055a69ca4bab4a17",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-185.mov"
+          "sha256": "0f59f062b2c4a8166c4b47505559d02d6662b09ce7998de7f576f032b1156325",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-185.mov"
         },
         {
           "name": "hai-185.mp4",
-          "bytes": 17821603,
-          "sha256": "1963dbfc4ed6bdedccdff18e290637f22772054aed3f2bfca31ff5d188fa665b",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-185.mp4"
+          "bytes": 17824855,
+          "sha256": "245905aeb26c10dd1529fc0b58374f41625dfdcca4110b6e2d3599a2948a9ea8",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-185.mp4"
         }
       ]
     },
@@ -329,20 +329,20 @@
         {
           "name": "hai-188.wav",
           "bytes": 61085774,
-          "sha256": "9c26d5cfb896be22f174107327257da69a5c8b68e7ac11c5d94b5d91f3844f63",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-188.wav"
+          "sha256": "aa0a98861e9cb3bc0b070bc24eae8bc14ce5b2b01b456068cf811e2425539d38",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-188.wav"
         },
         {
           "name": "hai-188.mov",
           "bytes": 102546950,
-          "sha256": "c9ed76eda91fb67dc0f7c05acda8a336e4eabc3face105cf15544f0a4cbae58b",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-188.mov"
+          "sha256": "b7123a34e9f4df25915bf7f7528cf92c07f28c97f303792551788cccf90053f0",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-188.mov"
         },
         {
           "name": "hai-188.mp4",
-          "bytes": 15955320,
-          "sha256": "2953233a38313d9e81c39a44137f3e3865e8bce82849b61a1436e088923de45e",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-188.mp4"
+          "bytes": 15944272,
+          "sha256": "5bf3c76f8681123c9aa77093f6be7118ad50ac908fd720c2b27a03ed992afaf5",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-188.mp4"
         }
       ]
     },
@@ -352,20 +352,20 @@
         {
           "name": "hai-189.wav",
           "bytes": 66088014,
-          "sha256": "04117c8be2a544820a9093c491284607b38d36cc26b2cabe5cbdeb79f53481ff",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-189.wav"
+          "sha256": "73d6b2b4aa4e552c851c8583ede20280d9e69ee4c88239577fde519d200b74ed",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-189.wav"
         },
         {
           "name": "hai-189.mov",
           "bytes": 114748237,
-          "sha256": "aa5e5862175e5c05a4e3f3e6ccbee6d958f664b82f3a7b4950acc1429438b929",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-189.mov"
+          "sha256": "bc891c459eed7d90b268f8e345c3ac2905f0a86d69755e256e3b75755eaef4d6",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-189.mov"
         },
         {
           "name": "hai-189.mp4",
-          "bytes": 18088465,
-          "sha256": "5a4a9fb7fc3e04b737f7054ce84a92131b1201e1df1d94f57f45122eab9d5f82",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-189.mp4"
+          "bytes": 18071237,
+          "sha256": "7f3e26ef685fbea50070386240d9908f6b5c786d9c8b1b04d1a8bc758329498f",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-189.mp4"
         }
       ]
     },
@@ -375,20 +375,20 @@
         {
           "name": "hai-190.wav",
           "bytes": 57950286,
-          "sha256": "fbf1f74d61391d39729919aeed5da8076f66473c41267cc23d47272a6a5f23da",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-190.wav"
+          "sha256": "3deb4de5827385df2f05788477d64cc0d259a84bf91852fa28c2fa5c10b41ca7",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-190.wav"
         },
         {
           "name": "hai-190.mov",
           "bytes": 92846055,
-          "sha256": "50b7ca64b53483a17535ebdb2d78127cbd69d9876192d999bdfb272b801b019f",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-190.mov"
+          "sha256": "e5596232d9c5f9ae47a692ac8497f4d657f560587c0a59c4c0ba3ec4865ad20d",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-190.mov"
         },
         {
           "name": "hai-190.mp4",
-          "bytes": 14045369,
-          "sha256": "f0dd9c8aec283728a1195acc7d9b87f9584abf70ee62db1cecdbc5155dcfd5a4",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-190.mp4"
+          "bytes": 14037892,
+          "sha256": "19b825a9a24fbe4c63b1c29ee718c0f68ed8c86f4fd641861928b22233b2bd7f",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-190.mp4"
         }
       ]
     },
@@ -398,20 +398,20 @@
         {
           "name": "hai-192.wav",
           "bytes": 60203598,
-          "sha256": "48f37bdf9cd9bb65d9897036bf9c99e7fcc0f9136118951fef2a1433618966c3",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-192.wav"
+          "sha256": "fa3cc17437c9915029ff9daf343db498daf9b62181e9ca4c9207e2d8f79a01dd",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-192.wav"
         },
         {
           "name": "hai-192.mov",
           "bytes": 103209887,
-          "sha256": "5da7bbae4a32f9d6666832437f63f8cbb8b1b2ebb8576332bcc18e57f0f57408",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-192.mov"
+          "sha256": "20900be5f6a673b8200adad90474766ae3668a013be1ab498112f2ff80a23e57",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-192.mov"
         },
         {
           "name": "hai-192.mp4",
-          "bytes": 15877830,
-          "sha256": "e2442134680f2a3f135b9d0c3ad7c0c653b32db79301568157817ddfa4b50b5a",
-          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v2-presentation/hai-192.mp4"
+          "bytes": 15878479,
+          "sha256": "fd641b034d5d1be6000a63aabadac56aa6fe37e8e3f344f0c68b2258b460d0b0",
+          "url": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/hai-192.mp4"
         }
       ]
     }

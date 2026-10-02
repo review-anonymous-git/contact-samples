@@ -51,9 +51,9 @@
   "video_layout": "Left and right follow the audio channels",
   "transcript": null,
   "downloads": {
-    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/emo-361.mp4",
-    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/emo-361.wav",
-    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v3-clearvoice/emo-361.mov"
+    "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-361.mp4",
+    "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-361.wav",
+    "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/emo-361.mov"
   },
   "participant_details": [
     {
