@@ -68,7 +68,7 @@ Transcripts are not included in this first example release. Direct identifiers a
 
 Gender is not disclosed and ages are reported only in ranges, in accordance with the study's IRB privacy requirements.
 
-Age bands follow the paper: 18-27, 28-37, 38-47, 48-57 and 58+ years. Missing ages are null. H-H age ranges describe an unordered pair, not a verified mapping to individual speaker IDs or channels.
+Age bands follow the paper: 18-27, 28-37, 38-47, 48-57 and 58+ years. H-H age ranges describe an unordered pair, not a verified mapping to individual speaker IDs or channels.
 
 ## Terms
 
