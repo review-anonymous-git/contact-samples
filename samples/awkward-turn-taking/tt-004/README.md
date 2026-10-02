@@ -29,4 +29,4 @@ Age ranges: 28-37, 28-37. Unordered participant pair; not linked to speaker IDs 
 
 ## Presentation Copies
 
-Display copies: the two audio channels are independently level-normalized and video backgrounds are matted onto light gray using Robust Video Matting; chair and edge remnants may remain. Ratings refer to the original recordings. These copies are not inputs to the paper's audio or timing analyses. Faces and voices remain identifiable. ClearVoice (MossFormer2_SE_48K) speech enhancement is applied to all 18 examples: both human channels in H-H, and only the human channel in H-AI. Channel loudness is matched after enhancement. Enhancement may alter quiet vocalizations; the original media release is retained.
+Display videos: backgrounds are matted onto light gray using Robust Video Matting; chair and edge remnants may remain. Ratings and paper analyses use the original recordings. Faces and voices remain identifiable.
