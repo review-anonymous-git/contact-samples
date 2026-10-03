@@ -1,6 +1,6 @@
 {
   "title": "CONTACT: A Human-Grounded Benchmark and Surprisal-Based Predictive Scorer for Conversational Naturalness",
-  "release": "samples-v4-clearvoice-all",
+  "release": "samples-v5-clearvoice-tt236",
   "samples": [
     {
       "sample_id": "tt-019",
@@ -295,16 +295,16 @@
       "participant_position_mapping": "user_confirmed"
     },
     {
-      "sample_id": "tt-031",
+      "sample_id": "tt-236",
       "subset": "Awkward Turn-Taking",
       "subset_slug": "awkward-turn-taking",
-      "recording_id": 31,
-      "session_id": "session_003",
-      "conversation": 3,
+      "recording_id": 236,
+      "session_id": "session_022",
+      "conversation": 4,
       "event_or_model": "Premature Entry",
-      "duration_seconds": 250.62,
-      "prompt": "Some people think trips should be carefully planned in advance, while others think trips are better when they are spontaneous. Discuss which style you prefer and why. Try to compare concrete examples such as transportation, budget, activities, and stress.",
-      "target_behavior": "The manipulated speaker should begin responding slightly before the partner has fully completed a point. Aim for early entry roughly once every 1-2 turns when it feels natural; do not make it so frequent that it sounds scripted or aggressive.",
+      "duration_seconds": 257.592,
+      "prompt": "One speaker explains how to troubleshoot something that is not working, such as a phone, computer, appliance, travel plan, or schedule problem. Walk through the steps and why each step would come next.",
+      "target_behavior": "The manipulated listener should begin asking a question or responding slightly before the explainer has finished a step, roughly once every 1-2 turns when it feels natural.",
       "ratings_scale": [
         1,
         5
@@ -312,18 +312,18 @@
       "ratings_scope": "Full recording, not an isolated event or clip",
       "ratings": {
         "turn_taking": {
-          "participant": 1.0,
-          "participant_instructed": 4.0,
-          "participant_uninstructed": 1.0,
+          "participant": 3.0,
+          "participant_instructed": 3.0,
+          "participant_uninstructed": 3.0,
           "supervisor": 3.0,
-          "combined": 2.0
+          "combined": 3.0
         }
       },
       "participant_policy": "Instructed and uninstructed participant ratings are reported separately. Combined uses the uninstructed participant and supervisor ratings",
       "demographics": {
         "age_ranges": [
           "28-37",
-          "28-37"
+          "38-47"
         ],
         "age_range_mapping": "Unordered participant pair; not linked to speaker IDs or left/right channels"
       },
@@ -332,14 +332,14 @@
         {
           "channel": 1,
           "position": "left",
-          "speaker_id": "007",
+          "speaker_id": "079",
           "role": "human",
-          "tail_padding_seconds": 1.572
+          "tail_padding_seconds": 0.048
         },
         {
           "channel": 2,
           "position": "right",
-          "speaker_id": "008",
+          "speaker_id": "080",
           "role": "human",
           "tail_padding_seconds": 0.0
         }
@@ -347,25 +347,25 @@
       "video_layout": "Left and right follow the audio channels",
       "transcript": null,
       "downloads": {
-        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-031.mp4",
-        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-031.wav",
-        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v4-clearvoice-all/tt-031.mov"
+        "preview": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v5-clearvoice-tt236/tt-236.mp4",
+        "audio": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v5-clearvoice-tt236/tt-236.wav",
+        "video": "https://github.com/review-anonymous-git/contact-samples/releases/download/samples-v5-clearvoice-tt236/tt-236.mov"
       },
       "participant_details": [
         {
           "position": "left",
-          "speaker_id": "007",
+          "speaker_id": "079",
           "instruction_role": "uninstructed",
-          "score": 1.0
+          "score": 3.0
         },
         {
           "position": "right",
-          "speaker_id": "008",
+          "speaker_id": "080",
           "instruction_role": "instructed",
-          "score": 4.0
+          "score": 3.0
         }
       ],
-      "participant_position_mapping": "user_confirmed"
+      "participant_position_mapping": "calendly_verified"
     },
     {
       "sample_id": "tt-062",

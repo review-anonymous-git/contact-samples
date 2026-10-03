@@ -1,0 +1,3 @@
+Premature Entry
+
+The manipulated listener should begin asking a question or responding slightly before the explainer has finished a step, roughly once every 1-2 turns when it feels natural.
