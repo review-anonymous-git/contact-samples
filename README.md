@@ -60,7 +60,7 @@ WAV: 48 kHz, 16-bit stereo PCM. MOV contains the same normalized PCM audio and b
 
 H-AI left = human, right = AI. H-H channels follow ascending global speaker ID. Original stored time origins are retained; this is not a calibration of network or device offsets. Shorter audio channels are padded only at the end, with durations recorded in metadata.
 
-The EM examples cover recordings 359-362. H-AI examples come from sessions 025 and 026 and jointly cover Gemini, Qwen, Moshi, Cascade V1 and Cascade V2. Nova Sonic is outside this example release. GPT-Live media is not publicly distributed under the project's release policy.
+The EM examples cover recordings 359-362. H-AI examples come from sessions 025 and 026 and jointly cover Gemini, Qwen, Moshi, Cascade V1 and Cascade V2. GPT-Live media is not publicly distributed under the project's release policy.
 
 Transcripts are not included in this first example release. Direct identifiers and private annotation fields are omitted from metadata; faces and voices remain identifiable. The overview graphic is reproduced from the paper.
 
